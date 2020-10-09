@@ -1,0 +1,2 @@
+# devops
+We want to execute builds in the cloud infrastructure. Currently we want to explore what GitHub and GitLab have as features. We should cover different aspects like moving the all build infrastructure in the cloud and moving some parts in the cloud and other parts still in our local build infrastructure. POC for one build small build should be next step. If pricing information is available it could be included too.
